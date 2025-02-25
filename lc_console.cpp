@@ -8,9 +8,9 @@ using namespace std;
 // int Xmin = 10, Ymin = 30;
 // int Xmax = 200, Ymax = 300;
 
-int xa = 245, ya = 320;
-int xb = 180, yb = 150;
-int Xmin = 50, Ymin = 60, Xmax = 600, Ymax = 450;
+int xa = 70, ya = 20;
+int xb = 100, yb = 10;
+int Xmin = 50, Ymin = 10, Xmax = 80, Ymax = 40;
 int result_arr_1[2];
 int result_arr_2[2];
 
